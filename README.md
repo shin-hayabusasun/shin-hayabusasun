@@ -12,14 +12,14 @@
 
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazuki47&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazuki47&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazuki47&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kazuki47&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kazuki47&theme=dracula&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shin-hayabusasun&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shin-hayabusasun&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shin-hayabusasun&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin-hayabusasun&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shin-hayabusasun&theme=dracula&utcOffset=9)
 
 ### Languages & Frameworks
-![](https://skillicons.dev/icons?i=python,js,ts,flutter,html,css,react,nextjs,flask)
+![](https://skillicons.dev/icons?i=python,js,ts,flutter,html,css,react,nextjs,flask,matlab,java,dart)
 
 
 
