@@ -13,7 +13,7 @@
 </div>
 
 ### Languages 
-![](https://skillicons.dev/icons?i=c,python,js,ts,html,css,matlab,java,dart,r,assembly)
+![](https://skillicons.dev/icons?i=c,c++,c#,python,js,ts,html,css,matlab,java,dart,r,assembly)
 
 ### Frameworks
 ![](https://skillicons.dev/icons?i=flutter,react,nextjs,flask,matlab,java,dart,sklearn,tensorflow,wordpress)
