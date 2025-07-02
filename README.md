@@ -9,9 +9,6 @@
 <h1 style="font-size: 50px; font-weight: bold; color: black; margin: 20px 0;">
   Shin-hyabusasun.
 </h1>
-<h1 style="font-size: 50px; font-weight: bold; color: black; margin: 0;">
-  Shin-hyabusasun.
-</h1>
 
 </div>
 
