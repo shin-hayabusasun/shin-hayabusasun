@@ -1,72 +1,19 @@
-<div class="fix">
-  <div class="wrapper">
-    <div class="block"></div>
-    <div class="text-top">
-      <div>Shin-hyabusasun. </div>
-      <div>Shin-hyabusasun. </div>
-    </div>
-    <div class="block-tile"></div>
-    <div class="block-tile1"></div>
-   
-  </div>
-</div>
+<!-- GitHub README に貼り付ける用（安全なHTMLのみ使用） -->
 
-<style>
-.wrapper {
-  margin-top: 400px;
-  padding-bottom: 100px;
-  overflow: hidden;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-.block {
-  position: absolute;
-  top: 0;
-  left: 0;
-  margin-left: 100px;
-  width: 300px;
-  height: 500px;
-  background-color: rgb(252, 4, 4);
-  z-index: 0;
-}
-.text-top {
-  white-space: nowrap;
-  display: flex;
-  flex-direction: row;
-  font-size: 150px;
-  font-weight: bold;
-  z-index: 1;
-  color: rgb(0, 0, 0);
-  position: relative;
-  margin-top: 110px;
-  text-align: left;
-  animation: marquee 10s linear infinite;
-}
-.text-bottom {
-  margin-left: 100px;
-  font-size: 170px;
-  font-weight: normal;
-  color: rgb(3, 3, 3);
-  z-index: 1;
-  margin-top: 0px;
-  text-align: left;
-}
-@keyframes marquee {
-  0% { transform: translateX(0); }
-  100% { transform: translateX(-50%); }
-}
-.background-video {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  object-fit: cover;
-  z-index: -1;
-  opacity: 0.2;
-}
+<div align="left">
+
+<!-- 赤いブロック風背景 -->
+<div style="background-color: rgb(252, 4, 4); width: 300px; height: 200px; margin-top: 20px;"></div>
+
+<!-- テキスト表示 -->
+<h1 style="font-size: 50px; font-weight: bold; color: black; margin: 20px 0;">
+  Shin-hyabusasun.
+</h1>
+<h1 style="font-size: 50px; font-weight: bold; color: black; margin: 0;">
+  Shin-hyabusasun.
+</h1>
+
+</div>
 
 
 
