@@ -12,14 +12,25 @@
 
 </div>
 
+### Languages 
+![](https://skillicons.dev/icons?i=python,js,ts,html,css,matlab,java,dart,r,assembly)
+
+### Frameworks
+![](https://skillicons.dev/icons?i=flutter,react,nextjs,flask,matlab,java,dart,sklearn,tensorflow,wordpress)
+
+### DB
+![](https://skillicons.dev/icons?i=sqlite)
+
+### Others
+![](https://skillicons.dev/icons?i=aws,blender,linux,notio,raspberrypi)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shin-hayabusasun&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shin-hayabusasun&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shin-hayabusasun&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shin-hayabusasun&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shin-hayabusasun&theme=dracula&utcOffset=9)
 
-### Languages & Frameworks
-![](https://skillicons.dev/icons?i=python,js,ts,flutter,html,css,react,nextjs,flask,matlab,java,dart,aws,blender,linux,notion,r,raspberrypi,sqlite,sklearn,tensorflow,wordpress)
+
 
 
 
