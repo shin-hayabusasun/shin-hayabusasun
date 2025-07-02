@@ -19,7 +19,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shin-hayabusasun&theme=dracula&utcOffset=9)
 
 ### Languages & Frameworks
-![](https://skillicons.dev/icons?i=python,js,ts,flutter,html,css,react,nextjs,flask,matlab,java,dart)
+![](https://skillicons.dev/icons?i=python,js,ts,flutter,html,css,react,nextjs,flask,matlab,java,dart,aws,blender,linux,notion,r,raspberrypi,sqlite,sklearn,tensorflow,wordpress)
 
 
 
