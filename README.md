@@ -19,7 +19,7 @@
 ![](https://skillicons.dev/icons?i=flutter,react,nextjs,flask,sklearn,tensorflow,wordpress)
 
 ### DB
-![](https://skillicons.dev/icons?i=sqlite)
+![](https://skillicons.dev/icons?i=sqlite,postgres,supabase)
 
 ### Others
 ![](https://skillicons.dev/icons?i=aws,blender,linux,notion,raspberrypi,arduino,gcp)
