@@ -22,7 +22,7 @@
 ![](https://skillicons.dev/icons?i=sqlite,postgres,supabase)
 
 ### Others
-![](https://skillicons.dev/icons?i=aws,blender,linux,notion,raspberrypi,arduino,gcp)
+![](https://skillicons.dev/icons?i=aws,blender,linux,notion,raspberrypi,arduino,gcp,docker,unity)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shin-hayabusasun&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shin-hayabusasun&theme=dracula)
