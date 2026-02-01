@@ -39,4 +39,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shin-hayabusasun&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shin-hayabusasun&theme=dracula&v=1)](https://github.com/ryo-ma/github-profile-trophy)
