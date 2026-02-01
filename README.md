@@ -39,4 +39,4 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shin-hayabusasun&theme=dracula&margin-w=15&column=7&title=MultiLanguage,Followers,Commits,PullRequest,Repositories,Issues,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shin-hayabusasun&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
