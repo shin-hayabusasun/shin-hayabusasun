@@ -39,4 +39,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shin-hayabusasun&theme=dracula&v=1)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=shin-hayabusasun&theme=dracula" alt="trophy" />
+</a>
